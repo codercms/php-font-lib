@@ -10,6 +10,9 @@
             "email": "fabien.menager@gmail.com"
         }
     ],
+    "replace": {
+        "phenx/php-font-lib": "*"
+    },
     "autoload": {
         "psr-4": {
             "FontLib\\": "src/FontLib"
